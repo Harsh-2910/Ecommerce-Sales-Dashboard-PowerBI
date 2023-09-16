@@ -1,0 +1,501 @@
+Order ID,Order Date,CustomerName,State,City
+B-26055,"Monday, February 24, 2003",Harivansh,Uttar Pradesh,Mathura
+B-25993,"Wednesday, May 7, 2003",Madhav,Delhi,Delhi
+B-25973,"Tuesday, July 1, 2003",Madan Mohan,Uttar Pradesh,Mathura
+B-25923,"Monday, August 25, 2003",Gopal,Maharashtra,Mumbai
+B-25757,"Friday, October 10, 2003",Vishakha,Madhya Pradesh,Indore
+B-25967,"Tuesday, October 28, 2003",Sudevi,Uttar Pradesh,Prayagraj
+B-25955,"Tuesday, November 11, 2003",Shiva,Maharashtra,Pune
+B-26093,"Tuesday, November 18, 2003",Sarita,Maharashtra,Pune
+B-25798,"Monday, December 1, 2003",Shishu,Andhra Pradesh,Hyderabad
+B-25602,"Thursday, January 15, 2004",Vrinda,Maharashtra,Pune
+B-25858,"Friday, February 20, 2004",Uudhav,Maharashtra,Mumbai
+B-25969,"Monday, April 5, 2004",Shreyshi,Gujarat,Surat
+B-26099,"Tuesday, May 18, 2004",Bhishm,Maharashtra,Mumbai
+B-25997,"Monday, June 28, 2004",Yogesh,Maharashtra,Pune
+B-25881,"Friday, July 23, 2004",Lalita,Uttar Pradesh,Mathura
+B-25761,"Friday, August 27, 2004",Madhav,Uttar Pradesh,Mathura
+B-25887,"Thursday, September 30, 2004",Vishakha,Uttar Pradesh,Prayagraj
+B-25823,"Friday, October 15, 2004",Rohan,Maharashtra,Mumbai
+B-25853,"Tuesday, November 2, 2004",Gaurav,Gujarat,Ahmedabad
+B-25862,"Monday, November 15, 2004",Amol,Bihar,Patna
+B-25830,"Wednesday, November 24, 2004",Aastha,Himachal Pradesh,Simla
+B-25786,"Friday, December 17, 2004",Madan Mohan,Uttar Pradesh,Mathura
+B-25686,"Thursday, February 3, 2005",Pooja,Himachal Pradesh,Simla
+B-26022,"Thursday, March 3, 2005",Shrichand,Punjab,Chandigarh
+B-26003,"Friday, April 8, 2005",Hitesh,Madhya Pradesh,Bhopal
+B-25755,"Friday, May 13, 2005",Shourya,Kerala ,Thiruvananthapuram
+B-25902,"Wednesday, January 29, 2003",Ishpreet,Maharashtra,Mumbai
+B-25935,"Monday, March 24, 2003",Sudhir,Nagaland,Kohima
+B-25797,"Wednesday, May 28, 2003",Sauptik,Madhya Pradesh,Indore
+B-25639,"Thursday, July 24, 2003",Lisha,Madhya Pradesh,Bhopal
+B-25681,"Friday, September 19, 2003",Bhawna,Madhya Pradesh,Indore
+B-25909,"Monday, October 20, 2003",Sujay,Maharashtra,Pune
+B-25910,"Thursday, November 6, 2003",Jay,Delhi,Delhi
+B-25950,"Thursday, November 13, 2003",Shruti,Madhya Pradesh,Indore
+B-25613,"Tuesday, November 25, 2003",Mohan,Haryana,Chandigarh
+B-25919,"Friday, December 5, 2003",Neha,Rajasthan,Udaipur
+B-25768,"Thursday, January 29, 2004",Shreyoshe,Karnataka,Bangalore
+B-25629,"Wednesday, March 10, 2004",Hemant,Kerala ,Thiruvananthapuram
+B-25729,"Tuesday, May 4, 2004",Madhulika,Madhya Pradesh,Bhopal
+B-25943,"Tuesday, June 15, 2004",Shardul,Gujarat,Ahmedabad
+B-25842,"Monday, July 19, 2004",Sheetal,Maharashtra,Pune
+B-26073,"Tuesday, August 17, 2004",Pournamasi,Madhya Pradesh,Indore
+B-25778,"Wednesday, September 8, 2004",Surabhi,Maharashtra,Mumbai
+B-25717,"Monday, October 11, 2004",Manshul,Uttar Pradesh,Lucknow
+B-26085,"Thursday, October 21, 2004",Shrichand,Punjab,Chandigarh
+B-26048,"Thursday, November 4, 2004",Parth,Maharashtra,Pune
+B-25793,"Thursday, November 18, 2004",Siddharth,Madhya Pradesh,Indore
+B-25656,"Monday, November 29, 2004",Priyanka,Maharashtra,Pune
+B-25608,"Friday, December 10, 2004",Aarushi,Tamil Nadu,Chennai
+B-25752,"Thursday, January 20, 2005",Vaibhav,Madhya Pradesh,Indore
+B-25779,"Thursday, February 17, 2005",Savi,Maharashtra,Pune
+B-25603,"Wednesday, March 9, 2005",Jahan,Madhya Pradesh,Bhopal
+B-26051,"Sunday, May 1, 2005",Parishi,West Bengal,Kolkata
+B-25653,"Tuesday, May 31, 2005",Farah,Nagaland,Kohima
+B-25855,"Monday, February 24, 2003",Abhijeet,Madhya Pradesh,Bhopal
+B-25762,"Tuesday, April 29, 2003",Anudeep,Madhya Pradesh,Indore
+B-25995,"Tuesday, July 1, 2003",Yohann,Delhi,Delhi
+B-25929,"Monday, August 25, 2003",Girase,Kerala ,Thiruvananthapuram
+B-26006,"Friday, October 10, 2003",Arpita,Karnataka,Bangalore
+B-25697,"Tuesday, October 28, 2003",Vijay,Jammu and Kashmir,Kashmir
+B-25836,"Tuesday, November 11, 2003",Arti,Maharashtra,Pune
+B-25601,"Tuesday, November 18, 2003",Bharat,Gujarat,Ahmedabad
+B-25873,"Monday, December 1, 2003",Divyeta,Madhya Pradesh,Indore
+B-26028,"Monday, January 12, 2004",Manju,Andhra Pradesh,Hyderabad
+B-25964,"Friday, February 20, 2004",Oshin,Maharashtra,Pune
+B-25676,"Saturday, April 3, 2004",Chandni,Rajasthan,Jaipur
+B-25839,"Tuesday, May 18, 2004",Pranjali,West Bengal,Kolkata
+B-25894,"Monday, June 28, 2004",Monu,Punjab,Amritsar
+B-25925,"Friday, July 23, 2004",Shruti,Maharashtra,Mumbai
+B-25953,"Friday, August 27, 2004",Krutika,Andhra Pradesh,Hyderabad
+B-25772,"Monday, September 27, 2004",Sanjana,Bihar,Patna
+B-25957,"Friday, October 15, 2004",Mahima,Madhya Pradesh,Indore
+B-25730,"Tuesday, November 2, 2004",Rishabh,Rajasthan,Jaipur
+B-25877,"Monday, November 15, 2004",Dashyam,Gujarat,Surat
+B-26067,"Tuesday, November 23, 2004",Tulika,Madhya Pradesh,Bhopal
+B-25810,"Friday, December 17, 2004",Nripraj,Punjab,Chandigarh
+B-25868,"Wednesday, February 2, 2005",Vikash,Goa,Goa
+B-26023,"Thursday, March 3, 2005",Mukesh,Haryana,Chandigarh
+B-25626,"Thursday, April 7, 2005",Bhishm,Maharashtra,Mumbai
+B-25937,"Friday, May 13, 2005",Ankit,Haryana,Chandigarh
+B-25610,"Monday, February 24, 2003",Yogesh,Bihar,Patna
+B-25777,"Tuesday, April 29, 2003",Aditi,Madhya Pradesh,Indore
+B-25738,"Tuesday, July 1, 2003",Ayush,Punjab,Chandigarh
+B-25978,"Monday, August 25, 2003",Parin,Maharashtra,Mumbai
+B-25643,"Friday, October 10, 2003",Kirti,Jammu and Kashmir,Kashmir
+B-25728,"Tuesday, October 28, 2003",Ameesha,Maharashtra,Pune
+B-25749,"Tuesday, November 11, 2003",Ayush,Maharashtra,Mumbai
+B-25667,"Tuesday, November 18, 2003",Anjali,Haryana,Chandigarh
+B-25657,"Monday, December 1, 2003",Tulika,Madhya Pradesh,Bhopal
+B-25753,"Monday, January 12, 2004",Shivam,Uttar Pradesh,Lucknow
+B-26061,"Friday, February 20, 2004",Anurag,Madhya Pradesh,Indore
+B-25838,"Monday, April 5, 2004",Sanjana,Madhya Pradesh,Indore
+B-25702,"Tuesday, May 18, 2004",Shaily,Maharashtra,Mumbai
+B-25952,"Monday, June 28, 2004",Priyanka,Madhya Pradesh,Indore
+B-25666,"Friday, July 23, 2004",Tanvi,Punjab,Chandigarh
+B-25675,"Friday, August 27, 2004",Shreya,Madhya Pradesh,Bhopal
+B-25650,"Thursday, September 30, 2004",Chirag,Maharashtra,Mumbai
+B-25986,"Friday, October 15, 2004",Shweta,Rajasthan,Udaipur
+B-25850,"Tuesday, November 2, 2004",Abhishek,Goa,Goa
+B-25898,"Monday, November 15, 2004",Abhishek,Rajasthan,Udaipur
+B-25813,"Tuesday, November 23, 2004",Hrisheekesh,Maharashtra,Mumbai
+B-25825,"Wednesday, January 5, 2005",Kartik,Madhya Pradesh,Indore
+B-25954,"Wednesday, February 2, 2005",Trupti,Gujarat,Ahmedabad
+B-25696,"Thursday, March 3, 2005",Noopur,Karnataka,Bangalore
+B-25638,"Friday, April 8, 2005",Parth,Maharashtra,Pune
+B-25747,"Friday, May 13, 2005",Harsh,Madhya Pradesh,Bhopal
+B-25904,"Tuesday, February 11, 2003",Swapnil,Delhi,Delhi
+B-25852,"Monday, April 28, 2003",Soumyabrata,Andhra Pradesh,Hyderabad
+B-25981,"Thursday, June 12, 2003",Amruta,Delhi,Delhi
+B-25899,"Sunday, August 10, 2003",Aishwarya,Uttar Pradesh,Prayagraj
+B-25870,"Monday, October 6, 2003",Pranav,Andhra Pradesh,Hyderabad
+B-26040,"Thursday, October 23, 2003",Sahil,Punjab,Chandigarh
+B-25671,"Saturday, November 8, 2003",Mitali,Nagaland,Kohima
+B-26100,"Friday, November 14, 2003",Hitika,Madhya Pradesh,Indore
+B-25651,"Wednesday, November 26, 2003",Anurag,Madhya Pradesh,Indore
+B-25968,"Friday, January 9, 2004",Paromita,Punjab,Amritsar
+B-26019,"Thursday, February 19, 2004",Jitesh,Uttar Pradesh,Lucknow
+B-25664,"Friday, May 7, 2004",Pratyusmita,Bihar,Patna
+B-26033,"Thursday, June 17, 2004",Atharv,West Bengal,Kolkata
+B-26052,"Wednesday, July 21, 2004",Ajay,Karnataka,Bangalore
+B-25999,"Friday, August 20, 2004",Diwakar,Delhi,Delhi
+B-25781,"Friday, September 10, 2004",Rutuja,Gujarat,Ahmedabad
+B-25764,"Thursday, October 14, 2004",Sanjova,Maharashtra,Pune
+B-25803,"Monday, November 1, 2004",Shivanshu,Madhya Pradesh,Indore
+B-25945,"Friday, November 5, 2004",Mhatre,Madhya Pradesh,Indore
+B-26086,"Sunday, November 21, 2004",Mukesh,Haryana,Chandigarh
+B-25845,"Thursday, December 2, 2004",Snel,Kerala ,Thiruvananthapuram
+B-25817,"Wednesday, December 15, 2004",Praneet,Maharashtra,Mumbai
+B-25951,"Monday, January 31, 2005",Jesal,West Bengal,Kolkata
+B-25970,"Wednesday, February 23, 2005",Rhea,Maharashtra,Mumbai
+B-25878,"Thursday, March 17, 2005",Mrinal,Maharashtra,Mumbai
+B-26057,"Friday, April 1, 2005",Sharda,Kerala ,Thiruvananthapuram
+B-25885,"Friday, May 6, 2005",Shatayu,Madhya Pradesh,Indore
+B-25897,"Wednesday, January 29, 2003",Rohan,Madhya Pradesh,Indore
+B-25756,"Tuesday, April 1, 2003",Mohan,Maharashtra,Mumbai
+B-25859,"Wednesday, May 28, 2003",Chikku,Madhya Pradesh,Indore
+B-25691,"Thursday, July 24, 2003",Akancha,Maharashtra,Mumbai
+B-25633,"Friday, September 19, 2003",Amit,Sikkim,Gangtok
+B-25708,"Tuesday, October 21, 2003",Kishwar,Madhya Pradesh,Indore
+B-25831,"Thursday, November 6, 2003",Mahima,Sikkim,Gangtok
+B-25856,"Thursday, November 13, 2003",Abhijeet,Maharashtra,Mumbai
+B-25893,"Tuesday, November 25, 2003",Vrinda,Uttar Pradesh,Mathura
+B-25959,"Tuesday, December 9, 2003",Muskan,Madhya Pradesh,Indore
+B-26000,"Wednesday, February 4, 2004",Shubham,Delhi,Delhi
+B-26097,"Thursday, March 11, 2004",Vini,Karnataka,Bangalore
+B-25745,"Tuesday, May 4, 2004",Kartik,Gujarat,Ahmedabad
+B-25974,"Tuesday, June 15, 2004",Manisha,Rajasthan,Udaipur
+B-25670,"Monday, July 19, 2004",Charika,Goa,Goa
+B-25848,"Thursday, August 19, 2004",Rohan,Himachal Pradesh,Simla
+B-25888,"Wednesday, September 8, 2004",Rohan,Punjab,Amritsar
+B-25942,"Wednesday, October 13, 2004",Ankur,Andhra Pradesh,Hyderabad
+B-25847,"Friday, October 22, 2004",Aniket,Haryana,Chandigarh
+B-25636,"Thursday, November 4, 2004",Nishi,Maharashtra,Mumbai
+B-25826,"Friday, November 19, 2004",Tanushree,Maharashtra,Mumbai
+B-26081,"Monday, November 29, 2004",Aarushi,Tamil Nadu,Chennai
+B-25625,"Friday, December 10, 2004",Pinky,Jammu and Kashmir,Kashmir
+B-25802,"Thursday, January 20, 2005",Yash,Maharashtra,Mumbai
+B-25693,"Thursday, February 17, 2005",Parna,Madhya Pradesh,Bhopal
+B-25796,"Wednesday, March 9, 2005",Sukrith,Maharashtra,Mumbai
+B-25806,"Sunday, May 1, 2005",Dhanraj,Madhya Pradesh,Indore
+B-25710,"Tuesday, May 31, 2005",Megha,Maharashtra,Pune
+B-25669,"Monday, March 3, 2003",Piyali,Sikkim,Gangtok
+B-25857,"Thursday, May 8, 2003",Anand,Madhya Pradesh,Indore
+B-25785,"Wednesday, July 2, 2003",Ayush,West Bengal,Kolkata
+B-25930,"Friday, September 5, 2003",Monica,Punjab,Chandigarh
+B-26053,"Friday, October 10, 2003",Kirti,Jammu and Kashmir,Kashmir
+B-26070,"Tuesday, November 4, 2003",Shruti,Karnataka,Bangalore
+B-25791,"Wednesday, November 12, 2003",Avish,Kerala ,Thiruvananthapuram
+B-25983,"Thursday, November 20, 2003",Atul,Delhi,Delhi
+B-25979,"Tuesday, December 2, 2003",Shivangi,Madhya Pradesh,Indore
+B-26054,"Thursday, January 15, 2004",Mayank,Maharashtra,Mumbai
+B-26078,"Sunday, February 22, 2004",Kasheen,West Bengal,Kolkata
+B-25787,"Friday, April 9, 2004",Asish,Jammu and Kashmir,Kashmir
+B-25682,"Tuesday, June 1, 2004",Krutika,Bihar,Patna
+B-25962,"Tuesday, July 6, 2004",Tejeswini,Maharashtra,Pune
+B-25750,"Monday, August 2, 2004",Priyanshu,Madhya Pradesh,Indore
+B-25828,"Monday, August 30, 2004",Nikita,Punjab,Chandigarh
+B-25622,"Saturday, October 4, 2003",Monisha,Rajasthan,Jaipur
+B-25751,"Saturday, October 16, 2004",Nishant,Maharashtra,Mumbai
+B-25685,"Wednesday, November 3, 2004",Sheetal,Madhya Pradesh,Indore
+B-26010,"Monday, November 15, 2004",Kartikay,Bihar,Patna
+B-26035,"Wednesday, November 24, 2004",Pinky,Jammu and Kashmir,Kashmir
+B-25698,"Thursday, January 6, 2005",Amisha,Tamil Nadu,Chennai
+B-25966,"Thursday, February 3, 2005",Soumya,Rajasthan,Udaipur
+B-25832,"Thursday, March 3, 2005",Harshita,Maharashtra,Mumbai
+B-25743,"Tuesday, May 17, 2005",Aman,Nagaland,Kohima
+B-25886,"Tuesday, February 11, 2003",Brijesh,Rajasthan,Udaipur
+B-25975,"Wednesday, April 16, 2003",Priyanka,Uttar Pradesh,Prayagraj
+B-26098,"Tuesday, June 3, 2003",Pinky,Jammu and Kashmir,Kashmir
+B-25614,"Friday, August 8, 2003",Vandana,Himachal Pradesh,Simla
+B-25726,"Sunday, September 28, 2003",Kiran,Maharashtra,Mumbai
+B-26050,"Wednesday, October 22, 2003",Paridhi,Rajasthan,Jaipur
+B-25609,"Thursday, November 6, 2003",Jitesh,Uttar Pradesh,Lucknow
+B-25741,"Friday, November 14, 2003",Navdeep,Madhya Pradesh,Indore
+B-25956,"Wednesday, November 26, 2003",Shreya,Maharashtra,Mumbai
+B-25689,"Friday, January 2, 2004",Bhaggyasree,Maharashtra,Mumbai
+B-25939,"Thursday, February 12, 2004",Vineet,Sikkim,Gangtok
+B-25890,"Friday, March 19, 2004",Divyansha,Maharashtra,Mumbai
+B-25814,"Wednesday, May 5, 2004",Swapnil,Madhya Pradesh,Indore
+B-25718,"Tuesday, July 20, 2004",Anjali,Maharashtra,Mumbai
+B-25914,"Friday, August 20, 2004",Kajal,Delhi,Delhi
+B-25903,"Thursday, September 9, 2004",Amlan,Madhya Pradesh,Indore
+B-26096,"Thursday, October 14, 2004",Atharv,West Bengal,Kolkata
+B-25654,"Friday, October 22, 2004",Sabah,Maharashtra,Mumbai
+B-26076,"Friday, November 5, 2004",Jahan,Madhya Pradesh,Bhopal
+B-25961,"Saturday, November 20, 2004",Surbhi,Gujarat,Ahmedabad
+B-25854,"Monday, November 1, 2004",Shubham,Maharashtra,Pune
+B-25642,"Wednesday, December 15, 2004",Ajay,Karnataka,Bangalore
+B-25683,"Sunday, January 23, 2005",Shreya,Kerala ,Thiruvananthapuram
+B-26016,"Thursday, February 17, 2005",Hazel,Karnataka,Bangalore
+B-26034,"Thursday, March 17, 2005",Vini,Karnataka,Bangalore
+B-26056,"Thursday, May 5, 2005",Sonal,Bihar,Patna
+B-25819,"Wednesday, January 29, 2003",Ankur,Madhya Pradesh,Bhopal
+B-25715,"Wednesday, March 26, 2003",Srishti,Jammu and Kashmir,Kashmir
+B-25933,"Wednesday, May 28, 2003",Shikhar,Maharashtra,Mumbai
+B-26014,"Thursday, July 24, 2003",Divsha,Rajasthan,Jaipur
+B-25655,"Friday, September 19, 2003",Nida,Madhya Pradesh,Indore
+B-25816,"Tuesday, October 21, 2003",Mane,Andhra Pradesh,Hyderabad
+B-25634,"Thursday, November 6, 2003",Sanjay,Goa,Goa
+B-25895,"Thursday, November 13, 2003",Sathya,Gujarat,Surat
+B-25687,"Tuesday, November 25, 2003",Sanjna,Maharashtra,Mumbai
+B-25662,"Friday, December 5, 2003",Sweta,Maharashtra,Mumbai
+B-25635,"Monday, February 2, 2004",Nidhi,Nagaland,Kohima
+B-26060,"Thursday, March 11, 2004",Chirag,Maharashtra,Mumbai
+B-26045,"Tuesday, May 4, 2004",Nidhi,Nagaland,Kohima
+B-25770,"Tuesday, June 15, 2004",Sakshi,Madhya Pradesh,Indore
+B-25744,"Monday, July 19, 2004",Devendra,Andhra Pradesh,Hyderabad
+B-25618,"Thursday, August 19, 2004",Manju,Andhra Pradesh,Hyderabad
+B-25958,"Wednesday, September 8, 2004",Aparajita,West Bengal,Kolkata
+B-25769,"Monday, October 11, 2004",Surbhi,Maharashtra,Mumbai
+B-25619,"Friday, October 22, 2004",Ramesh,Gujarat,Ahmedabad
+B-25688,"Thursday, November 4, 2004",Swetha,Madhya Pradesh,Indore
+B-25829,"Thursday, November 18, 2004",Apoorva,Haryana,Chandigarh
+B-26036,"Monday, November 29, 2004",Bhishm,Maharashtra,Mumbai
+B-25714,"Friday, December 10, 2004",Stuti,Karnataka,Bangalore
+B-25989,"Thursday, January 20, 2005",Anjali,Delhi,Delhi
+B-25849,"Thursday, February 17, 2005",K,Sikkim,Gangtok
+B-25851,"Wednesday, March 9, 2005",Kushal,Nagaland,Kohima
+B-25782,"Sunday, May 1, 2005",Aayushi,Maharashtra,Mumbai
+B-25621,"Tuesday, May 31, 2005",Deepak,Madhya Pradesh,Bhopal
+B-25996,"Monday, February 24, 2003",Prashant,Delhi,Delhi
+B-25678,"Wednesday, May 7, 2003",Bathina,Karnataka,Bangalore
+B-25727,"Tuesday, July 1, 2003",Turumella,Madhya Pradesh,Indore
+B-26018,"Monday, August 25, 2003",Aarushi,Tamil Nadu,Chennai
+B-25760,"Friday, October 10, 2003",Pooja,Goa,Goa
+B-25804,"Tuesday, November 4, 2003",Sudheer,Karnataka,Bangalore
+B-25754,"Tuesday, November 11, 2003",Akshay,Bihar,Patna
+B-26020,"Tuesday, November 18, 2003",Yogesh,Bihar,Patna
+B-25640,"Monday, December 1, 2003",Paridhi,Rajasthan,Jaipur
+B-25789,"Thursday, January 15, 2004",Akshay,Uttar Pradesh,Lucknow
+B-26072,"Saturday, February 21, 2004",Sweta,Maharashtra,Mumbai
+B-26007,"Monday, April 5, 2004",Shubham,Jammu and Kashmir,Kashmir
+B-26087,"Tuesday, May 18, 2004",Vandana,Himachal Pradesh,Simla
+B-25617,"Monday, June 28, 2004",Sagar,Nagaland,Kohima
+B-25984,"Monday, August 2, 2004",Kajal,Delhi,Delhi
+B-25767,"Friday, August 27, 2004",Ashmeet,West Bengal,Kolkata
+B-25987,"Thursday, September 30, 2004",Manjiri,Delhi,Delhi
+B-25840,"Friday, October 15, 2004",Sneha,Karnataka,Bangalore
+B-25663,"Wednesday, November 3, 2004",Pournamasi,Madhya Pradesh,Indore
+B-26030,"Monday, November 15, 2004",Sarita,Maharashtra,Pune
+B-25947,"Wednesday, November 24, 2004",Chetan,Gujarat,Ahmedabad
+B-25896,"Wednesday, January 5, 2005",Aman,Maharashtra,Mumbai
+B-26009,"Thursday, February 3, 2005",Komal,Uttar Pradesh,Lucknow
+B-25876,"Thursday, March 3, 2005",Bhosale,Punjab,Amritsar
+B-25915,"Friday, April 8, 2005",Sukruta,Punjab,Amritsar
+B-25795,"Friday, May 13, 2005",Sukant,Sikkim,Gangtok
+B-26002,"Friday, January 31, 2003",Harsh,Delhi,Delhi
+B-25645,"Wednesday, April 16, 2003",Yaanvi,Madhya Pradesh,Indore
+B-25837,"Tuesday, June 3, 2003",Palak,Maharashtra,Mumbai
+B-25612,"Friday, August 8, 2003",Shrichand,Punjab,Chandigarh
+B-25812,"Sunday, September 28, 2003",Kshitij,Madhya Pradesh,Indore
+B-25843,"Wednesday, October 22, 2003",Mrunal,Maharashtra,Mumbai
+B-26026,"Thursday, November 6, 2003",Kanak,Goa,Goa
+B-25773,"Friday, November 14, 2003",Shreya,Kerala ,Thiruvananthapuram
+B-25875,"Wednesday, November 26, 2003",Divyeshkumar,Uttar Pradesh,Prayagraj
+B-25660,"Friday, January 2, 2004",Shruti,Karnataka,Bangalore
+B-25918,"Thursday, February 12, 2004",Karandeep,Madhya Pradesh,Indore
+B-25971,"Monday, March 15, 2004",Mitali,Madhya Pradesh,Indore
+B-26063,"Wednesday, May 5, 2004",Farah,Nagaland,Kohima
+B-25867,"Tuesday, July 20, 2004",Ankit,Sikkim,Gangtok
+B-25703,"Friday, August 20, 2004",Ekta,Madhya Pradesh,Indore
+B-25661,"Thursday, September 9, 2004",Subhashree,Jammu and Kashmir,Kashmir
+B-25748,"Thursday, October 14, 2004",Nitant,Rajasthan,Jaipur
+B-25766,"Friday, October 22, 2004",Surabhi,Rajasthan,Jaipur
+B-25861,"Friday, November 5, 2004",Aayush,Uttar Pradesh,Lucknow
+B-26058,"Saturday, November 20, 2004",Aditya,Punjab,Chandigarh
+B-25808,"Monday, November 1, 2004",Apsingekar,Bihar,Patna
+B-25900,"Friday, December 10, 2004",Anand,Punjab,Amritsar
+B-26084,"Wednesday, January 26, 2005",Anita,Kerala ,Thiruvananthapuram
+B-25652,"Thursday, February 17, 2005",Tushina,Goa,Goa
+B-26008,"Thursday, May 5, 2005",Kalyani,Tamil Nadu,Chennai
+B-25799,"Monday, March 3, 2003",Divyansh,Gujarat,Ahmedabad
+B-25927,"Thursday, May 8, 2003",Shreya,Uttar Pradesh,Lucknow
+B-25985,"Wednesday, July 2, 2003",Ginny,Madhya Pradesh,Indore
+B-25994,"Friday, September 5, 2003",Omkar,Delhi,Delhi
+B-25620,"Saturday, October 11, 2003",Sarita,Maharashtra,Pune
+B-25712,"Tuesday, November 4, 2003",Adhvaita,Rajasthan,Jaipur
+B-25976,"Wednesday, November 12, 2003",Piyam,Punjab,Amritsar
+B-26068,"Thursday, November 20, 2003",Shefali,Rajasthan,Jaipur
+B-25721,"Tuesday, December 2, 2003",Anchal,Haryana,Chandigarh
+B-25863,"Friday, January 16, 2004",Manibalan,Kerala ,Thiruvananthapuram
+B-25991,"Sunday, February 22, 2004",Mansi,Madhya Pradesh,Indore
+B-25737,"Friday, April 9, 2004",Shubham,Madhya Pradesh,Indore
+B-26043,"Tuesday, June 1, 2004",Amit,Sikkim,Gangtok
+B-25977,"Tuesday, July 6, 2004",Aayushi,Gujarat,Surat
+B-25908,"Monday, August 2, 2004",Pradeep,Delhi,Delhi
+B-25941,"Monday, August 30, 2004",Jaideep,Nagaland,Kohima
+B-25794,"Saturday, October 4, 2003",Aditya,Himachal Pradesh,Simla
+B-26041,"Saturday, October 16, 2004",Ritu,Haryana,Chandigarh
+B-25695,"Wednesday, November 3, 2004",Suhani,West Bengal,Kolkata
+B-25960,"Monday, November 15, 2004",Shreya,Andhra Pradesh,Hyderabad
+B-26037,"Wednesday, November 24, 2004",Hitika,Madhya Pradesh,Indore
+B-25921,"Thursday, January 6, 2005",Sandra,Punjab,Amritsar
+B-25944,"Tuesday, February 8, 2005",Syed,Maharashtra,Pune
+B-25724,"Thursday, March 3, 2005",Sheetal,Madhya Pradesh,Indore
+B-26024,"Tuesday, May 17, 2005",Vandana,Himachal Pradesh,Simla
+B-25694,"Tuesday, February 11, 2003",Subhasmita,Rajasthan,Jaipur
+B-25665,"Wednesday, April 16, 2003",Chayanika,Kerala ,Thiruvananthapuram
+B-26004,"Tuesday, June 3, 2003",Nandita,Rajasthan,Jaipur
+B-25611,"Friday, August 8, 2003",Anita,Kerala ,Thiruvananthapuram
+B-25901,"Sunday, September 28, 2003",Suraj,Gujarat,Surat
+B-25623,"Wednesday, October 22, 2003",Atharv,West Bengal,Kolkata
+B-25713,"Thursday, November 6, 2003",Raksha,West Bengal,Kolkata
+B-26091,"Friday, November 14, 2003",Manju,Andhra Pradesh,Hyderabad
+B-25604,"Wednesday, November 26, 2003",Divsha,Rajasthan,Jaipur
+B-25827,"Friday, January 2, 2004",Sheetal,Madhya Pradesh,Indore
+B-25835,"Thursday, February 12, 2004",Moumita,Gujarat,Ahmedabad
+B-26025,"Friday, March 19, 2004",Bhavna,Sikkim,Gangtok
+B-25809,"Wednesday, May 5, 2004",Suman,Kerala ,Thiruvananthapuram
+B-25905,"Tuesday, July 20, 2004",Bhargav,Delhi,Delhi
+B-25948,"Friday, August 20, 2004",Mukund,Maharashtra,Pune
+B-26094,"Thursday, September 9, 2004",Deepak,Madhya Pradesh,Bhopal
+B-25949,"Thursday, October 14, 2004",Shantanu,Maharashtra,Mumbai
+B-26001,"Friday, October 22, 2004",Patil,Delhi,Delhi
+B-25771,"Friday, November 5, 2004",Vaibhavi,Uttar Pradesh,Lucknow
+B-25659,"Saturday, November 20, 2004",Sanskriti,West Bengal,Kolkata
+B-25924,"Wednesday, December 1, 2004",Prajakta,Karnataka,Bangalore
+B-25883,"Wednesday, December 15, 2004",Saptadeep,Gujarat,Surat
+B-25946,"Wednesday, January 26, 2005",Saurabh,Andhra Pradesh,Hyderabad
+B-26065,"Thursday, February 17, 2005",Nida,Madhya Pradesh,Indore
+B-26083,"Wednesday, March 23, 2005",Yogesh,Bihar,Patna
+B-25725,"Thursday, May 5, 2005",Anisha,Nagaland,Kohima
+B-25630,"Monday, March 3, 2003",Sahil,Punjab,Chandigarh
+B-25673,"Thursday, May 8, 2003",Arsheen,Gujarat,Ahmedabad
+B-25692,"Wednesday, July 2, 2003",Rashmi,Madhya Pradesh,Indore
+B-25992,"Friday, September 5, 2003",Gaurav,Rajasthan,Udaipur
+B-25765,"Friday, October 10, 2003",Meghana,Madhya Pradesh,Bhopal
+B-25892,"Tuesday, November 4, 2003",Aditi,Rajasthan,Udaipur
+B-26089,"Wednesday, November 12, 2003",Kanak,Goa,Goa
+B-25780,"Thursday, November 20, 2003",Teena,Andhra Pradesh,Hyderabad
+B-25684,"Tuesday, December 2, 2003",Samiksha,Maharashtra,Mumbai
+B-25739,"Thursday, January 15, 2004",Daksh,Haryana,Chandigarh
+B-25731,"Sunday, February 22, 2004",Akash,West Bengal,Kolkata
+B-25648,"Friday, April 9, 2004",Aditya,Punjab,Chandigarh
+B-26038,"Tuesday, June 1, 2004",Pooja,Bihar,Patna
+B-25700,"Tuesday, July 6, 2004",Shubhi,Maharashtra,Mumbai
+B-26015,"Monday, August 2, 2004",Kasheen,West Bengal,Kolkata
+B-25704,"Monday, August 30, 2004",Riya,Maharashtra,Mumbai
+B-25811,"Saturday, October 4, 2003",Utsav,Maharashtra,Mumbai
+B-25821,"Saturday, October 16, 2004",Ajay,West Bengal,Kolkata
+B-25874,"Wednesday, November 3, 2004",Megha,Rajasthan,Udaipur
+B-25668,"Monday, November 15, 2004",Rhea,Himachal Pradesh,Simla
+B-25800,"Wednesday, November 24, 2004",Ishit,Maharashtra,Pune
+B-25928,"Thursday, January 6, 2005",Smriti,Bihar,Patna
+B-26021,"Wednesday, February 9, 2005",Anita,Kerala ,Thiruvananthapuram
+B-26064,"Thursday, March 3, 2005",Ankita,Maharashtra,Mumbai
+B-25882,"Tuesday, May 17, 2005",Masurkar,Punjab,Amritsar
+B-25891,"Friday, January 31, 2003",Shivani,Madhya Pradesh,Indore
+B-25820,"Friday, April 4, 2003",Dheeraj,Rajasthan,Jaipur
+B-25889,"Tuesday, June 3, 2003",Abhishek,Gujarat,Surat
+B-25871,"Friday, August 1, 2003",Gunjal,Gujarat,Surat
+B-25637,"Sunday, September 21, 2003",Ashmi,Madhya Pradesh,Indore
+B-25616,"Wednesday, October 22, 2003",Kanak,Goa,Goa
+B-25972,"Thursday, November 6, 2003",Jesslyn,Rajasthan,Udaipur
+B-25805,"Friday, November 14, 2003",Ankit,Maharashtra,Mumbai
+B-25860,"Tuesday, November 25, 2003",Akshay,Tamil Nadu,Chennai
+B-26080,"Tuesday, December 9, 2003",Sonakshi,Jammu and Kashmir,Kashmir
+B-25807,"Tuesday, February 10, 2004",Vipul,Uttar Pradesh,Lucknow
+B-25734,"Thursday, March 11, 2004",Pranav,Madhya Pradesh,Indore
+B-25880,"Wednesday, May 5, 2004",Apoorv,Rajasthan,Udaipur
+B-25934,"Tuesday, June 15, 2004",Rahul,Madhya Pradesh,Indore
+B-25913,"Tuesday, July 20, 2004",Geetanjali,Delhi,Delhi
+B-25912,"Thursday, August 19, 2004",Preksha,Delhi,Delhi
+B-25824,"Wednesday, September 8, 2004",Shyam,Madhya Pradesh,Indore
+B-25711,"Wednesday, October 13, 2004",Sakshi,Madhya Pradesh,Bhopal
+B-25864,"Friday, October 22, 2004",Aromal,Maharashtra,Mumbai
+B-25917,"Friday, November 5, 2004",Sanjay,Maharashtra,Mumbai
+B-26049,"Saturday, November 20, 2004",Lisha,Madhya Pradesh,Bhopal
+B-25920,"Wednesday, December 1, 2004",Jayanti,Uttar Pradesh,Prayagraj
+B-25699,"Friday, December 10, 2004",Kritika,Uttar Pradesh,Lucknow
+B-25735,"Sunday, January 23, 2005",Arindam,Uttar Pradesh,Lucknow
+B-25701,"Thursday, February 17, 2005",Maithilee,Madhya Pradesh,Indore
+B-26092,"Tuesday, May 3, 2005",Ramesh,Gujarat,Ahmedabad
+B-26082,"Tuesday, May 31, 2005",Jitesh,Uttar Pradesh,Lucknow
+B-25818,"Monday, March 3, 2003",Sandeep,Madhya Pradesh,Indore
+B-25846,"Thursday, May 8, 2003",Soodesh,Punjab,Chandigarh
+B-26011,"Wednesday, July 2, 2003",Bharat,Gujarat,Ahmedabad
+B-25631,"Friday, September 5, 2003",Ritu,Haryana,Chandigarh
+B-25606,"Saturday, October 11, 2003",Hazel,Karnataka,Bangalore
+B-25746,"Tuesday, November 4, 2003",Shivam,Maharashtra,Pune
+B-26005,"Wednesday, November 12, 2003",Parnavi,West Bengal,Kolkata
+B-25844,"Thursday, November 20, 2003",Swati,Madhya Pradesh,Indore
+B-25869,"Tuesday, December 2, 2003",Parakh,Nagaland,Kohima
+B-26066,"Friday, January 16, 2004",Priyanka,Maharashtra,Pune
+B-25865,"Sunday, February 22, 2004",Arun,Madhya Pradesh,Indore
+B-26039,"Monday, April 12, 2004",Hemant,Kerala ,Thiruvananthapuram
+B-25916,"Tuesday, June 1, 2004",Utkarsh,Gujarat,Surat
+B-26090,"Tuesday, July 6, 2004",Sagar,Nagaland,Kohima
+B-25988,"Wednesday, August 4, 2004",Nirja,Delhi,Delhi
+B-25906,"Monday, August 30, 2004",Abhijit,Delhi,Delhi
+B-26017,"Saturday, October 4, 2003",Sonakshi,Jammu and Kashmir,Kashmir
+B-25644,"Saturday, October 16, 2004",Mayank,Maharashtra,Mumbai
+B-25679,"Thursday, November 4, 2004",Avni,Maharashtra,Mumbai
+B-25723,"Monday, November 15, 2004",Wale,Maharashtra,Mumbai
+B-25605,"Wednesday, November 24, 2004",Kasheen,West Bengal,Kolkata
+B-25792,"Thursday, January 6, 2005",Abhishek,Maharashtra,Mumbai
+B-25680,"Wednesday, February 9, 2005",Aayushi,Madhya Pradesh,Indore
+B-25931,"Thursday, March 3, 2005",Sidharth,Maharashtra,Mumbai
+B-25932,"Thursday, April 14, 2005",Bhutekar,Madhya Pradesh,Indore
+B-25990,"Tuesday, May 17, 2005",Mugdha,Delhi,Delhi
+B-25615,"Wednesday, January 29, 2003",Bhavna,Sikkim,Gangtok
+B-26031,"Wednesday, March 26, 2003",Deepak,Madhya Pradesh,Bhopal
+B-25801,"Wednesday, May 28, 2003",Aryan,Madhya Pradesh,Bhopal
+B-25833,"Thursday, July 24, 2003",Krishna,Madhya Pradesh,Indore
+B-26077,"Friday, September 19, 2003",Divsha,Rajasthan,Jaipur
+B-25936,"Tuesday, October 21, 2003",Nikhil,Punjab,Chandigarh
+B-25938,"Thursday, November 6, 2003",Shikhar,Himachal Pradesh,Simla
+B-25716,"Thursday, November 13, 2003",Surabhi,Tamil Nadu,Chennai
+B-25740,"Tuesday, November 25, 2003",Rane,Maharashtra,Mumbai
+B-25763,"Friday, December 5, 2003",Noshiba,Gujarat,Ahmedabad
+B-25872,"Thursday, January 29, 2004",Saurabh,Maharashtra,Mumbai
+B-25879,"Wednesday, March 10, 2004",Siddharth,Madhya Pradesh,Indore
+B-25926,"Tuesday, May 4, 2004",Dipali,Madhya Pradesh,Indore
+B-26074,"Tuesday, June 15, 2004",Bharat,Gujarat,Ahmedabad
+B-25627,"Monday, July 19, 2004",Hitika,Madhya Pradesh,Indore
+B-25940,"Tuesday, August 17, 2004",Vivek,Goa,Goa
+B-26047,"Wednesday, September 8, 2004",Ashmi,Madhya Pradesh,Indore
+B-26069,"Monday, October 11, 2004",Sanskriti,West Bengal,Kolkata
+B-26027,"Thursday, October 21, 2004",Sagar,Nagaland,Kohima
+B-25963,"Thursday, November 4, 2004",Pratiksha,Maharashtra,Mumbai
+B-25922,"Thursday, November 18, 2004",Akshata,Gujarat,Surat
+B-25866,"Monday, November 29, 2004",Komal,Himachal Pradesh,Simla
+B-25607,"Friday, December 10, 2004",Sonakshi,Jammu and Kashmir,Kashmir
+B-25775,"Thursday, January 20, 2005",Duhita,Haryana,Chandigarh
+B-25998,"Thursday, February 17, 2005",Anmol,Rajasthan,Udaipur
+B-26062,"Wednesday, March 9, 2005",Tushina,Goa,Goa
+B-25722,"Sunday, May 1, 2005",Inderpreet,Himachal Pradesh,Simla
+B-25776,"Tuesday, May 31, 2005",Mousam,Maharashtra,Mumbai
+B-26032,"Monday, March 10, 2003",Monisha,Rajasthan,Jaipur
+B-25705,"Thursday, May 8, 2003",Shweta,Madhya Pradesh,Indore
+B-25628,"Friday, July 4, 2003",Pooja,Bihar,Patna
+B-25733,"Thursday, September 11, 2003",Dhirajendu,Maharashtra,Mumbai
+B-25647,"Friday, October 17, 2003",Sharda,Kerala ,Thiruvananthapuram
+B-25790,"Wednesday, November 5, 2003",Sajal,Bihar,Patna
+B-25709,"Wednesday, November 12, 2003",Aakanksha,Madhya Pradesh,Indore
+B-25911,"Thursday, November 20, 2003",Phalguni,Madhya Pradesh,Bhopal
+B-25774,"Tuesday, December 2, 2003",Snehal,Punjab,Chandigarh
+B-26042,"Friday, January 16, 2004",Manish,Himachal Pradesh,Simla
+B-25815,"Sunday, February 22, 2004",Harsh,Nagaland,Kohima
+B-25822,"Tuesday, April 13, 2004",Tejas,Karnataka,Bangalore
+B-26075,"Tuesday, June 1, 2004",Pearl,Maharashtra,Pune
+B-25783,"Tuesday, July 6, 2004",Shivangi,Madhya Pradesh,Indore
+B-26046,"Friday, August 6, 2004",Nishi,Maharashtra,Mumbai
+B-25690,"Monday, August 30, 2004",Gunjan,Madhya Pradesh,Indore
+B-25706,"Sunday, October 5, 2003",Swetlana,Goa,Goa
+B-25736,"Saturday, October 16, 2004",Akshat,Maharashtra,Mumbai
+B-25720,"Thursday, November 4, 2004",Namrata,Punjab,Chandigarh
+B-25907,"Wednesday, November 17, 2004",Jaydeep,Madhya Pradesh,Bhopal
+B-25719,"Wednesday, November 24, 2004",Rashmi,Madhya Pradesh,Indore
+B-26013,"Thursday, December 9, 2004",Jahan,Madhya Pradesh,Bhopal
+B-26044,"Friday, January 7, 2005",Sanjay,Goa,Goa
+B-25649,"Wednesday, February 9, 2005",Rachna,Haryana,Chandigarh
+B-25658,"Friday, March 4, 2005",Shefali,Rajasthan,Jaipur
+B-25672,"Friday, April 15, 2005",Akanksha,Andhra Pradesh,Hyderabad
+B-25624,"Tuesday, May 17, 2005",Vini,Karnataka,Bangalore
+B-25884,"Friday, January 10, 2003",Sumeet,Maharashtra,Mumbai
+B-25641,"Tuesday, March 25, 2003",Parishi,West Bengal,Kolkata
+B-25841,"Wednesday, May 21, 2003",Ashvini,Maharashtra,Mumbai
+B-25980,"Wednesday, July 16, 2003",Shweta,Rajasthan,Udaipur
+B-26012,"Friday, September 12, 2003",Pearl,Maharashtra,Pune
+B-26029,"Saturday, October 18, 2003",Ramesh,Gujarat,Ahmedabad
+B-26071,"Wednesday, November 5, 2003",Subhashree,Jammu and Kashmir,Kashmir
+B-25646,"Wednesday, November 12, 2003",Sonal,Bihar,Patna
+B-25677,"Friday, November 21, 2003",Ekta,West Bengal,Kolkata
+B-25759,"Wednesday, December 3, 2003",Soumya,Sikkim,Gangtok
+B-26059,"Thursday, January 29, 2004",Rachna,Haryana,Chandigarh
+B-25632,"Tuesday, March 2, 2004",Manish,Himachal Pradesh,Simla
+B-26079,"Thursday, April 29, 2004",Hazel,Karnataka,Bangalore
+B-25674,"Tuesday, June 8, 2004",Mahima,Maharashtra,Pune
+B-25965,"Tuesday, August 17, 2004",Saloni,West Bengal,Kolkata
+B-25732,"Friday, September 3, 2004",Anubhaw,Karnataka,Bangalore
+B-25834,"Monday, October 11, 2004",Ananya,Andhra Pradesh,Hyderabad
+B-25784,"Thursday, October 21, 2004",Rohit,Rajasthan,Jaipur
+B-25982,"Thursday, November 4, 2004",Hemangi,Delhi,Delhi
+B-25788,"Wednesday, November 17, 2004",Dinesh,Tamil Nadu,Chennai
+B-25742,"Monday, November 29, 2004",Ashwin,Goa,Goa
+B-26088,"Thursday, December 9, 2004",Bhavna,Sikkim,Gangtok
+B-25707,"Thursday, January 20, 2005",Shivani,Maharashtra,Mumbai
+B-25758,"Wednesday, February 16, 2005",Shubham,Himachal Pradesh,Simla
+B-26095,"Wednesday, March 9, 2005",Monisha,Rajasthan,Jaipur
